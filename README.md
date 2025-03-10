@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nikunjbanker
 - 👀 I’m interested in learning new technologies
-- 🌱 I’m currently learning DDD, Microservices, Azure AKS, MongoDB
+- 🌱 I’m currently learning AI, DDD, Microservices, Azure, Kubernetes, MongoDB
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
